@@ -10,11 +10,13 @@ Install deps
 </code>
 
 Criate env file
+
 <code>
     mv .env-loca .env
 </code>
 
 Run
+
 <code>
     NODE_ENV=development node app.js
 </code>
