@@ -3,8 +3,6 @@ Install and start
 
 Update env file if your information.
 
-Install deps
-
 <code>npm install</code>
 
 
