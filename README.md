@@ -1,6 +1,6 @@
-===README FILE===
+Install and start
 
-==Install and start==
+
 Update env file if your information.
 
 <code>
