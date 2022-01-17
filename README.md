@@ -6,7 +6,7 @@ Update env file if your information.
 Install deps
 
 <code>
-npm install
+npm install \n
 mv .env-loca .env
 NODE_ENV=development node app.js
 </code>
