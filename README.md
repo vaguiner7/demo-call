@@ -1,7 +1,7 @@
 Install and start
 
 
-Update env file if your information.
+Update env file with your information.
 
 <code>npm install</code>
 
