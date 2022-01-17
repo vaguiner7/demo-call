@@ -5,11 +5,10 @@ Update env file if your information.
 
 Install deps
 
-<code>
-npm install
+<code>npm install</code>
 
-<code>
-mv .env-loca .env
 
-<code>
-NODE_ENV=development node app.js
+<code>mv .env-loca .env</code>
+
+
+<code>NODE_ENV=development node app.js</code>
