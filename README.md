@@ -4,11 +4,13 @@ Install and start
 Update env file if your information.
 
 <code>
+    npm install
+</code>
 
-npm install
+<code>
+    mv .env-loca .env
+</code>
 
-mv .env-loca .env
-
-NODE_ENV=development node app.js
-
+<code>
+    NODE_ENV=development node app.js
 </code>
